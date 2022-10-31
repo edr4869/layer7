@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cloudscraper": "^4.6.0",
+    "cluster": "^0.7.7",
+    "colors": "^1.4.0",
+    "events": "^3.2.0",
+    "fs": "0.0.1-security",
+    "keccak": "^2.0.0",
+    "net": "^1.0.2",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "sjcl": "^1.0.8",
+    "url": "^0.11.0",
+    "zombie": "^6.1.4"
+  }
+}
